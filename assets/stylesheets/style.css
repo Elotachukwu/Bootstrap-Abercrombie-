@@ -73,8 +73,18 @@
 
   .firstPara {
     font-size: 1rem;
-    margin: 0 0 3rem 10rem;
+    margin: 0 0 1rem 10rem;
     width: 350px;
+  }
+  #shopMen,
+  #shopWomen {
+    border: 1px solid white;
+  }
+
+  #home-btn {
+    color: white;
+    background-color: transparent;
+    font-weight: bold;
   }
 }
 
