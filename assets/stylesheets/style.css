@@ -1,0 +1,93 @@
+.navbar-nav {
+  flex-direction: row;
+}
+
+.navbar-dark {
+  background-color: #253746;
+}
+
+.nav-link {
+  color: #374e62;
+}
+
+.text-right {
+  padding-right: 1rem;
+}
+
+.card-title {
+  font-size: 3rem;
+}
+.card-text {
+  font-size: 1.5rem;
+}
+
+.text-wrap {
+  width: 450px;
+}
+
+.btn {
+  width: 200px;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+.three {
+  width: 350px;
+}
+
+.second {
+  width: 300px;
+}
+
+.display {
+  font-size: 2rem;
+}
+
+.third {
+  font-size: 1rem;
+  width: 350px;
+}
+
+.blmPara {
+  font-size: 1.2rem;
+  width: 350px;
+}
+
+.shoppingSeason {
+  font-size: 1.1rem;
+  width: 350px;
+}
+
+.footerPara {
+  font-size: 1.5rem;
+  width: 100px;
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (min-width: 991.98px) {
+  #firstNav,
+  #brand,
+  #bag,
+  #bars {
+    display: none;
+  }
+
+  .usFlag {
+    width: 30px;
+  }
+}
+
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+  #gift,
+  #about {
+    display: none;
+  }
+}
+
+/* Extra large devices (large desktops) */
+/* No media query since the extra-large breakpoint has no upper bound on its width */
