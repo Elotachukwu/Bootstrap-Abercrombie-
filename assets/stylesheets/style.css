@@ -76,6 +76,7 @@
     margin: 0 0 1rem 10rem;
     width: 350px;
   }
+
   #shopMen,
   #shopWomen {
     border: 1px solid white;
@@ -99,6 +100,23 @@
 
   .usFlag {
     width: 30px;
+  }
+
+  .firstPara {
+    font-size: 1.5rem;
+    margin-left: 13rem;
+    width: 500px;
+  }
+
+  #home-btn {
+    color: white;
+    background-color: transparent;
+    font-weight: bold;
+    font-size: 1rem;
+  }
+
+  .first-head {
+    font-size: 3rem;
   }
 }
 
