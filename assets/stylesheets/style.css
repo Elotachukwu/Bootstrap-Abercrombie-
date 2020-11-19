@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
 .navbar-nav {
   flex-direction: row;
 }
@@ -16,13 +22,6 @@
 
 .card-title {
   font-size: 3rem;
-}
-.card-text {
-  font-size: 1.5rem;
-}
-
-.text-wrap {
-  width: 450px;
 }
 
 .btn {
@@ -63,8 +62,20 @@
 }
 
 /* Small devices (landscape phones, less than 768px) */
-@media (max-width: 767.98px) {
+@media (min-width: 767.98px) {
+  #ultra {
+    margin-top: 3rem;
+  }
 
+  .first-head {
+    font-size: 2rem;
+  }
+
+  .firstPara {
+    font-size: 1rem;
+    margin: 0 0 3rem 10rem;
+    width: 350px;
+  }
 }
 
 /* Medium devices (tablets, less than 992px) */
