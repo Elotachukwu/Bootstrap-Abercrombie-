@@ -71,7 +71,8 @@
 
   .first-head,
   #door,
-  #list {
+  #list,
+  #shop-safely {
     font-size: 2rem;
   }
 
@@ -165,6 +166,21 @@
     color: white;
     background-color: transparent;
     font-weight: bold;
+  }
+
+  .seventh-para {
+    font-size: 0.75rem;
+    margin: 0 0 1rem 10rem;
+    width: 400px;
+  }
+
+  #safe-shopn {
+    margin-top: 1rem;
+  }
+
+  #find-store {
+    margin-bottom: 2rem;
+    border-bottom: 1px solid black;
   }
 }
 
