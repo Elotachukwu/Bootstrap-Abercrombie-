@@ -137,11 +137,34 @@
   .fifth-para {
     font-size: 1.1rem;
     width: 700px;
-    /* margin-bottom: 0.5rem; */
   }
 
-  .link {
-    margin-bottom: 3rem;
+  .blm-mvment {
+    width: 500px;
+  }
+
+  #movement {
+    font-size: 1.1rem;
+    margin-bottom: 0.2rem;
+  }
+
+  .sixth-para {
+    font-size: 0.7rem;
+    width: 300px;
+    margin-top: 0.5rem;
+  }
+
+  #lrn-mre-btn {
+    border: 1px solid white;
+    width: 200px;
+    align-self: center;
+    padding: 0.8rem;
+  }
+
+  #lrn-btn {
+    color: white;
+    background-color: transparent;
+    font-weight: bold;
   }
 }
 
