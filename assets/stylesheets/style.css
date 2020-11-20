@@ -79,7 +79,8 @@
   }
 
   .firstPara,
-  .second-para {
+  .second-para,
+  .third-para {
     font-size: 0.75rem;
     margin: 0 0 1rem 13.4rem;
     width: 250px;
@@ -101,6 +102,11 @@
     background-color: transparent;
     font-weight: bold;
     padding: 0.8rem;
+  }
+
+  #best-dressed {
+    width: 150px;
+    margin: 1rem 0;
   }
 }
 
