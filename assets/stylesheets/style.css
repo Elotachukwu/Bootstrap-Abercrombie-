@@ -128,6 +128,21 @@
     padding: 1rem;
     width: 250px;
   }
+
+  #local-store {
+    font-size: 1rem;
+    margin: 0.5rem 0;
+  }
+
+  .fifth-para {
+    font-size: 1.1rem;
+    width: 700px;
+    /* margin-bottom: 0.5rem; */
+  }
+
+  .link {
+    margin-bottom: 3rem;
+  }
 }
 
 /* Medium devices (tablets, less than 992px) */
