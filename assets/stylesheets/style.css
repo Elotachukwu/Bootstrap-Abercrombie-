@@ -201,7 +201,59 @@
   }
 }
 
-@media (max-width: 991px) {
+@media (max-width: 940px) {
+  #the-first {
+    margin-left: 22rem;
+  }
+
+  .firstPara,
+  .second-para,
+  .third-para,
+  .fourth-para,
+  .shoppingSeason {
+    margin-left: 20rem;
+  }
+
+  .btn-div {
+    margin-left: 16rem;
+  }
+
+  .btnDiv {
+    margin-left: 20rem;
+ }
+
+ .fifth-para {
+   margin-left: 8rem;
+ }
+}
+
+@media (max-width: 880px) {
+  #the-first {
+    margin-left: 20rem;
+  }
+
+  .firstPara,
+  .second-para,
+  .third-para,
+  .fourth-para,
+  .shoppingSeason {
+    margin-left: 18rem;
+  }
+
+  .btn-div {
+    margin-left: 14rem;
+  }
+
+  .btnDiv {
+    margin-left: 18rem;
+ }
+
+ .fifth-para {
+   margin-left: 6rem;
+ }
+}
+
+@media (max-width: 800px) {
   #the-first {
     margin-left: 16rem;
   }
@@ -259,9 +311,9 @@
 }
 
 @media (min-width: 1199.98px) {
-  .firstPara {
-    /* margin-left: 19rem; */
-  }
+  /* .firstPara {
+    margin-left: 19rem;
+  } */
 
   /* #shopMen,
   #shopWomen {
